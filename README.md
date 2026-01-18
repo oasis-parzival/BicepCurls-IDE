@@ -1,12 +1,12 @@
 # BicepCurls IDE: The Agentic Web Interface
 
-[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen)](https://oasis-parzival.github.io/bicepcurls-IDE/)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen)](https://bicepcurls-v1.netlify.app/)
 [![Next.js](https://img.shields.io/badge/Framework-Next.js%2015-black)](https://nextjs.org/)
 [![Monaco Editor](https://img.shields.io/badge/Editor-Monaco-blue)](https://microsoft.github.io/monaco-editor/)
 
 BicepCurls is a state-of-the-art, browser-based integrated development environment (IDE) designed for rapid web prototyping. It integrates an autonomous development agent, **Freeweight AI**, directly into the core workflow, enabling seamless neural-assisted coding.
 
-## 🚀 Technical Architecture
+## Technical Architecture
 
 The application is built on a modern **Next.js 15** stack, leveraging a decoupled architecture for performance and extensibility.
 
@@ -41,7 +41,7 @@ The UI implements a "Vanguard-Cyber" design language:
 - **Icons**: Lucide React + Emoji integration
 - **CI/CD**: GitHub Actions / gh-pages automation
 
-## 📦 Local Development
+## Local Development
 
 1. **Clone the repository**:
    ```bash
@@ -56,7 +56,7 @@ The UI implements a "Vanguard-Cyber" design language:
    npm run dev
    ```
 
-## 🚢 Deployment Logic
+## Deployment Logic
 
 The project is configured for **Static Site Generation (SSG)**.
 
