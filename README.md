@@ -32,7 +32,7 @@ The UI implements a "Vanguard-Cyber" design language:
 - **Canvas Particle Network**: High-performance background animations using the HTML5 Canvas API.
 - **3D Tilt Geometry**: Perspective-based UI interactions driven by real-time mouse coordinate normalization.
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Framework**: Next.js (App Router)
 - **Language**: TypeScript
