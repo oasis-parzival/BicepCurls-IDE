@@ -13,8 +13,8 @@
 ## 🌐 The Interface 
 
 <p align="center">
-  <a href="https://bicepcurls-v1.netlify.app/">
-    <img src="https://raw.githubusercontent.com/Inter-Club/Logic-Masters-India/master/client/public/browser-mockup.png" width="100%" alt="BicepCurls IDE Preview">
+  <a href="https://oasis-parzival.github.io/BicepCurls-IDE/">
+    <img src="https://github.com/user-attachments/assets/6a9a0f2d-8616-43d8-a08a-e8a98589f4dc" width="100%" alt="BicepCurls IDE Preview">
   </a>
 </p>
 
